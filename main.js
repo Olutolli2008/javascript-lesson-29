@@ -25,8 +25,11 @@ console.log(students);
 
 students.pop(students);
 
-students.unshift(students);
+students.unshift("Narta");
+students.unshift("Besarti")
 
-console.shift(students);
+console.log(students);
+
+students.shift(students);
 
 
