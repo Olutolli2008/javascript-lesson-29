@@ -32,4 +32,4 @@ console.log(students);
 
 students.shift(students);
 
-
+document.write(Math.random()*8);
